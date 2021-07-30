@@ -145,9 +145,7 @@ section .container .right .box_text p{
     border-bottom: 5px double #999999;
     /* border: 1px solid black; */
 }
-.footer :hover{
-    color: red;
-}
+
 /* 
 .footer1{
     padding-left: 4px;
